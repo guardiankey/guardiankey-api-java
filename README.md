@@ -12,4 +12,11 @@ Useful information:
 - This is running with the jars available in the directory libs
 - Let us know if you have troubles, you can open an issue or send us an e-mail (contact@guardiankey.io)
 
+# Example flow
+
+1. User submit username and pass
+2. Verify if username/pass are valid (yes or no)
+3. Call gk.check_access, in any case
+4. If gk_return['response'] == 'BLOCK', block the access attempt.
+   Allow the access in any other case!
 
