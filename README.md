@@ -19,4 +19,3 @@ Useful information:
 3. Call gk.check_access, in any case
 4. If gk_return['response'] == 'BLOCK', block the access attempt.
    Allow the access in any other case!
-
