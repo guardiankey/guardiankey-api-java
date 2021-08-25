@@ -8,7 +8,7 @@ This code is a reference implementation in Java for GuardianKey.
 
 Useful information:
 
-- There is a functional example here, src/Example.jar
+- There is a functional example here, src/Example.java
 - This is running with the jars available in the directory libs
 - Let us know if you have troubles, you can open an issue or send us an e-mail (contact@guardiankey.io)
 
